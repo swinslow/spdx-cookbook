@@ -2,10 +2,13 @@
 
 ## SPDX
 
-**SPDX** is the Software Package Data Exchange. It is an open standard for the
-communication of **software bill of material** information among individuals,
-organizations and tools, in a manner that is both machine-readable and
-human-readable.
+**SPDX** is the Software Package Data Exchange project. The goal of SPDX is to
+create a set of data exchange standards that enable companies and organizations
+to share human-readable and machine-processable software package metadata to
+facilitate software supply chain processes.
+
+SPDX is an open standard for the communication of **software bill of material**
+information among individuals, organizations and tools.
 
 SPDX is an open source project organized within The Linux Foundation. SPDX and
 Software Package Data Exchange are registered trademarks of The Linux
